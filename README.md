@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shivam Goel.
-- 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning Computer Science at SST.
+- 🌱 I’m currently studying Computer Science at Scaler School of Technology.
 -  💞️ I’m looking to collaborate on projects aimed at the development of the weaker sections of the society.
 
 
